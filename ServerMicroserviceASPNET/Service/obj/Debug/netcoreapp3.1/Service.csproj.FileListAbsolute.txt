@@ -1,0 +1,405 @@
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\staticwebassets\Service.StaticWebAssets.Manifest.cache
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\staticwebassets\Service.StaticWebAssets.xml
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.exe
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Devart.Data.PostgreSql.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Devart.Data.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Platform.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Platform.Xml.Serialization.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Shaolinq.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Shaolinq.Postgres.DotConnect.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razan\Desktop\Web Applications DAT076\ProjectRepos\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.exe
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Devart.Data.PostgreSql.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Devart.Data.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Platform.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Platform.Xml.Serialization.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Shaolinq.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Shaolinq.Postgres.DotConnect.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\staticwebassets\Service.StaticWebAssets.Manifest.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\staticwebassets\Service.StaticWebAssets.xml
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\staticwebassets\Service.StaticWebAssets.Manifest.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\staticwebassets\Service.StaticWebAssets.xml
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.exe
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Devart.Data.PostgreSql.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Devart.Data.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Platform.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Platform.Xml.Serialization.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Shaolinq.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\Shaolinq.Postgres.DotConnect.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.RazorTargetAssemblyInfo.cache
+C:\Users\razan\Desktop\SparkVisionBucketProject\Buckets_ASP.NET_Web_Microservice\MicroServiceASP.NET\ServerMicroserviceASPNET\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

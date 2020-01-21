@@ -1,0 +1,17 @@
+{
+    "ReRoutes": [
+        {
+            "DownstreamPathTemplate": "/api/user",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": "62641"
+                }
+            ],
+            "UpstreamPathTemplate": "/",
+            "UpstreamHttpMethod": [ "GET" ]
+        }
+        
+    ]
+}

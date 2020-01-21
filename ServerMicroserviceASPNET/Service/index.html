@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <title>Bucket Problem</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="center w-50 mx-auto my-5">
+            <form method="post" class="form">
+                <div class="row">
+                    <div class="col-12 col-md-6">
+                        <div class="card">
+                            <img src="https://media.nisbets.com/asset/core/prodimage/largezoom/cd807_y_bucket-red.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="form-group mb-0">
+                                    <label for="inputBucket1">Liters in bucket 1</label>
+                                    <input class="form-control" id="inputBucket1" placeholder="Number of liters" type="number" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="card">
+                            <img src="https://media.nisbets.com/asset/core/prodimage/largezoom/cd807_y_bucket-red.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <div class="form-group mb-0">
+                                    <label for="inputBucket2">Liters in bucket 2</label>
+                                    <input class="form-control" id="inputBucket2" placeholder="Number of liters" type="number" required="required">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mt-4">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="input3">How many liters do you wanna measure?</label>
+                            <div class="input-group mb-3">
+                                <input type="number" id="input3" class="form-control" placeholder="Number of liters" aria-describedby="button-addon2" required>
+                                <div class="input-group-append">
+                                    <button class="btn btn-danger" type="button" id="calculate">Calculate</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="alert alert-success mb-0" role="alert">
+                            <h5 class="alert-heading">Here you can see the combinations you have to test to get the number!</h5>
+                            <p class="result">The results will be shown here!</p>
+                            <hr>
+                            <p class="mb-0">Made by Yazan Ghafir</p>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            $('#calculate').click(function() {
+                let inputBucket1 = $('#inputBucket1').val();
+                let inputBucket2 = $('#inputBucket2').val();
+                let input3 = $('#input3').val();
+
+                if (inputBucket1 == "" || inputBucket2 == "" || input3 == "") {
+                    alert("Fill all fields in!");
+                    return false;
+                } else {
+                    $.ajax({
+                        type: "POST",
+                        url: 'http://localhost:62641/api/user/post/' + inputBucket1 + '-' + inputBucket2 + '-' + input3,
+                        async: false,
+                        cache: false,
+                        contentType: false,
+                        enctype: 'multipart/form-data'
+                    })
+                    .done(function(response) {
+                        let result = response;
+                        $('.result').html(result);
+                    })
+                }
+            });
+        });
+    </script>
+</body>
+</html>
